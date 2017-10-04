@@ -1,0 +1,6 @@
+c:\users\kevint\documents\visual studio 2017\Projects\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe.config
+c:\users\kevint\documents\visual studio 2017\Projects\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe
+c:\users\kevint\documents\visual studio 2017\Projects\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.pdb
+c:\users\kevint\documents\visual studio 2017\Projects\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csprojResolveAssemblyReference.cache
+c:\users\kevint\documents\visual studio 2017\Projects\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.exe
+c:\users\kevint\documents\visual studio 2017\Projects\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.pdb
